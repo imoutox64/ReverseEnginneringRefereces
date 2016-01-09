@@ -10,7 +10,6 @@ ReverseEngineering関連URL公開メモ帳
 * C＋＋解析のハウツー
     * https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Paper/bh-dc-07-Sabanal_Yason-WP.pdf
     * http://www.pirlo21.net/books/reversingcpp.doc
-
 * API obfuscation
     * https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/a_museum_of_api_obfuscation_on_win32.pdf
     * https://www.blackhat.com/docs/asia-15/materials/asia-15-Choi-API-Deobfuscator-Indentifying-Runtime-Obfuscated-API-Calls-Via-Memory-Access-Analysis.pdf
