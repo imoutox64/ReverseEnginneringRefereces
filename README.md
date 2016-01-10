@@ -21,9 +21,6 @@ Reverse Engineering References or else (hope still alive)
 
 * x86アセンブラ入門
     * https://speakerdeck.com/ntddk/x86asenburaru-men
-    
-* Windows Malware Analysis Essentials
-    * http://www.allitebooks.com/windows-malware-analysis-essentials/
 
 ### Malware Techniques
 * 常駐プログラム隠蔽テクニック(dll Injection)
