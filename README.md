@@ -1,6 +1,6 @@
 # ReverseEnginneringRefereces
 
-Free PDFs or blogs for Reverse Engineering References or else (hope still alive)
+Reverse Engineering References or else (hope still alive)
 
 ## Reverse Engineering
 ### Reversing
@@ -24,7 +24,7 @@ Free PDFs or blogs for Reverse Engineering References or else (hope still alive)
     
 * Windows Malware Analysis Essentials
     * http://www.allitebooks.com/windows-malware-analysis-essentials/
-    
+
 ### Malware Techniques
 * 常駐プログラム隠蔽テクニック(dll Injection)
     * http://ruffnex.oc.to/kenji/text/dll_inj/
@@ -84,9 +84,6 @@ Free PDFs or blogs for Reverse Engineering References or else (hope still alive)
 
 ## Tools
 ### IDA
-* The IDA Pro Book
-    * http://www.allitebooks.com/the-ida-pro-book/
-
 * The Beginner's Guide to IDAPython
     * https://leanpub.com/IDAPython-Book
     
@@ -135,12 +132,4 @@ Free PDFs or blogs for Reverse Engineering References or else (hope still alive)
 * about Linux kernel
     * https://www.gitbook.com/download/epub/book/0xax/linux-insides
 
-## Penetration Test
-* Metasploit Penetration Testing Cookbook
-    * http://file.allitebooks.com/20160101/Metasploit%20Penetration%20Testing%20Cookbook,%20Second%20Edition.pdf
 
-* Python Hacking Essentials
-    * http://file.allitebooks.com/20150909/Python%20Hacking%20Essentials.pdf
-
-* Learning Python Network Programming
-    * http://file.allitebooks.com/20150811/Learning%20Python%20Network%20Programming.pdf
