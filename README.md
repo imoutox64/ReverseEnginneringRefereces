@@ -116,6 +116,9 @@ Reverse Engineering References (hope still alive)
 * WINDOWS REGISTRY AUDITING CHEAT SHEET - Win 7/Win 2008 or later
     * http://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/568e98f1c21b869cfadbf3e7/1452185841782/Windows+Registry+Auditing+Cheat+Sheet+ver+1.1+Jan+2016.pdf
 
+* guide to undocumented Windows NT Kernel, Native API and drivers
+    * http://undocumented.ntinternals.net/
+
 * Windows Vista Kernel Structures
     * http://www.nirsoft.net/kernel_struct/vista/    
 
